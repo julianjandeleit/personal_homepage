@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Website of Julian Jandeleit</title>
+    <subtitle>Personal Website of Julian Jandeleit</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://julianjandeleit.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <id>https://julianjandeleit.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Mono-Paratrec</title>
+        <published>2026-01-01T00:00:00+00:00</published>
+        <updated>2026-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/mono-paratrec/"/>
+        <id>https://julianjandeleit.github.io/projects/mono-paratrec/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/mono-paratrec/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Master Thesis: Training LLMs to create Swarm Behavior</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/llm-swarm-behavior/"/>
+        <id>https://julianjandeleit.github.io/projects/llm-swarm-behavior/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/llm-swarm-behavior/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Conshelv</title>
+        <published>2024-01-01T00:00:00+00:00</published>
+        <updated>2024-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/conshelv/"/>
+        <id>https://julianjandeleit.github.io/projects/conshelv/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/conshelv/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fishing Vizzard</title>
+        <published>2024-01-01T00:00:00+00:00</published>
+        <updated>2024-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/vast2024/"/>
+        <id>https://julianjandeleit.github.io/projects/vast2024/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/vast2024/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Ai-Cli</title>
+        <published>2023-01-01T00:00:00+00:00</published>
+        <updated>2023-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/ai-cli/"/>
+        <id>https://julianjandeleit.github.io/projects/ai-cli/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/ai-cli/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bachelor Thesis: Pose Estimation for Ushichka Dataset</title>
+        <published>2022-01-01T00:00:00+00:00</published>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/dmcp/"/>
+        <id>https://julianjandeleit.github.io/projects/dmcp/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/dmcp/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Autonomous Soccer Robots</title>
+        <published>2017-01-01T00:00:00+00:00</published>
+        <updated>2017-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/robocupjr/"/>
+        <id>https://julianjandeleit.github.io/projects/robocupjr/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/robocupjr/"></content>
+        
+    </entry>
+</feed>
