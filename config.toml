@@ -1,0 +1,73 @@
+# The URL the site will be built for
+base_url = "https://julianjandeleit.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+minify_html = false
+# When set to "false", Sitemap.xml is not generated
+generate_sitemap = true
+
+# When set to "false", robots.txt is not generated
+generate_robots_txt = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+generate_feeds = true
+
+theme="peritus"
+
+title = "Website of Julian Jandeleit"
+description = "Personal Website of Julian Jandeleit"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+render_emoji = true
+external_links_target_blank = false
+smart_punctuation = true
+bottom_footnotes = true
+github_alerts = true
+
+[extra]
+# Put all your custom variables here
+name = "Julian Jandeleit"
+role = "Computer and Data Scientist"
+cv_url ="/CV.pdf"
+bio = """
+My experience ranges from computer vision, over stochastic modeling and modern machine learning to robotics and distributed systems engineering.
+Currently, I'm employed at the R&D department of Baumer Group, developing data processing and analysis pipelines for new 3D sensor solutions.
+
+In my free time I like to make music :musical_keyboard: :guitar:, take photos :camera: or go sailing :sailboat:.
+"""
+
+# navbar items
+[[extra.menu]]
+name = "Projects"
+url = "/projects/"
+weight = 1
+
+# navbar items
+[[extra.menu]]
+name = "Photography"
+url = "/photography/"
+weight = 2
+
+# navbar items
+[[extra.menu]]
+name = "Music"
+url = "/music/"
+weight = 3
+
+
+# Color theme configuration
+[extra.colors]
+primary_color = "#39444C"         # Dark grayish blue
+secondary_color = "#008C8C"       # Darker cyan
+accent_color = "#98A6AD"           # Soft grayish blue
+text_color = "#2C2F33"             # Dark gray
+background_color = "#F8F9FA"       # Light grayish white
+card_background = "#FFFFFF"        # White
+border_color = "#D0D3D4"          # Light gray
+light_background = "#EDF0F2"       # Very light gray

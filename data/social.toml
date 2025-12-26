@@ -1,0 +1,14 @@
+[[social]]
+name = "Email"
+url = "mailto:julian.jandeleit@uni-konstanz.de"
+icon = "fas fa-envelope"
+
+[[social]]
+name = "GitHub"
+url = "https://github.com/julianjandeleit"
+icon = "fab fa-github"
+
+[[social]]
+name = "Google Scholar"
+url = "https://scholar.google.com/scholar?hl=de&as_sdt=0,5&q=julian+jandeleit"
+icon = "ai ai-google-scholar"

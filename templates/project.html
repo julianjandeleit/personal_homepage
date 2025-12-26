@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="project-container">
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.description }}</p>
+    
+    <div class="project-content">
+        {{ page.content | safe }}  <!-- Directly renders all content from the markdown -->
+    </div>
+</div>
+
+<style>
+.project-container {
+    background-color: var(--card-background);
+    padding: 2rem 3rem;  /* Increased padding for more space */
+    border-radius: 0.5rem;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
+    max-width: 1000px;    /* Increased max-width for a more classic look */
+    margin: 2rem auto;     /* Added top margin for spacing from the top */
+}
+
+.project-container h2 {
+    margin-top: 0;         /* Remove top margin to minimize space */
+    margin-bottom: 1rem;
+}
+
+.project-container p {
+    margin-bottom: 1.5rem;  /* Increased bottom margin for paragraph spacing */
+}
+
+.project-content {
+    text-align: justify;   /* Keep text justified for readability */
+    line-height: 1.6;      /* Increased line height for better readability */
+    font-size: 1.1em;      /* Slightly increases font size */
+}
+/* New CSS for images */
+.project-content img {
+    max-width: 100%;       /* Make images responsive */
+    height: auto;          /* Maintain aspect ratio */
+    border-radius: 0.5rem; /* Optional: add a border radius */
+    box-shadow: var(--shadow); /* Optional: add shadow for effect */
+    margin: 1rem 0;        /* Space out images from surrounding text */
+}
+</style>
+{% endblock content %}
