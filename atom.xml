@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Website of Julian Jandeleit</title>
+    <subtitle>Personal Website of Julian Jandeleit</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://julianjandeleit.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <id>https://julianjandeleit.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Master Thesis: Training LLMs to create Swarm Behavior</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/master-thesis-llm-smarm-behavior/"/>
+        <id>https://julianjandeleit.github.io/projects/master-thesis-llm-smarm-behavior/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/master-thesis-llm-smarm-behavior/">&lt;h1 id=&quot;git-repositories&quot;&gt;Git Repositories&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;julianjandeleit&#x2F;swarm_descriptions&quot;&gt;Dataset&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;julianjandeleit&#x2F;thesis_llm_collective_behavior_generation&quot;&gt;Training and Evaluation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Conshelv</title>
+        <published>2024-01-01T00:00:00+00:00</published>
+        <updated>2024-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/conshelv/"/>
+        <id>https://julianjandeleit.github.io/projects/conshelv/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/conshelv/">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.conshelv.com&#x2F;&quot;&gt;Landingpage&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fishing Vizzard</title>
+        <published>2024-01-01T00:00:00+00:00</published>
+        <updated>2024-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/fishing-vizzard/"/>
+        <id>https://julianjandeleit.github.io/projects/fishing-vizzard/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/fishing-vizzard/">&lt;p&gt;Developed during Master &lt;em&gt;Course Advanced Visual Analytics&lt;&#x2F;em&gt; at Uni Konstanz.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;VASTChallenge64683.2024.00017&quot;&gt;DOI&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;group2.vast24.dbvis.de&#x2F;&quot;&gt;Demo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Ai-Cli</title>
+        <published>2023-01-01T00:00:00+00:00</published>
+        <updated>2023-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/ai-cli/"/>
+        <id>https://julianjandeleit.github.io/projects/ai-cli/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/ai-cli/">&lt;p&gt;Created during HiWi position in AI4Grids Project at HTWG Konstanz.&lt;&#x2F;p&gt;
+&lt;p&gt;A command line script to simplify ML projects for servers with multiple users. It uses Docker containers to manage and isolate dependencies and tracks experiments with MLFlow. CI is supported with CML runners. Environments can be accessed using jupyter servers. Works with Conda and different CUDA versions.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;julianjandeleit&#x2F;ai-cli&quot;&gt;Repo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bachelor Thesis: Pose Estimation for Ushichka Dataset</title>
+        <published>2022-01-01T00:00:00+00:00</published>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/bachelor-thesis-dmcp/"/>
+        <id>https://julianjandeleit.github.io/projects/bachelor-thesis-dmcp/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/bachelor-thesis-dmcp/">&lt;ul&gt;
+&lt;li&gt;Description of larger project at workgroup &lt;a href=&quot;https:&#x2F;&#x2F;www.activesensingcollectives.com&#x2F;index.html&quot;&gt;Active Sensing Collectives&lt;&#x2F;a&gt; website.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ushichka&#x2F;dmcp&quot;&gt;Repo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>RoboCup Junior</title>
+        <published>2017-01-01T00:00:00+00:00</published>
+        <updated>2017-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://julianjandeleit.github.io/projects/robocup-junior/"/>
+        <id>https://julianjandeleit.github.io/projects/robocup-junior/</id>
+        
+        <content type="html" xml:base="https://julianjandeleit.github.io/projects/robocup-junior/">&lt;p&gt;With my Team “Bodenseekaimane” I achieved 1. and 2. place in the German RoboCup Junior Championships during highschool.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;recording-from-the-championships-in-vohringen&quot;&gt;Recording from the Championships in Vöhringen&lt;&#x2F;h1&gt;
+ &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;SiNUKvay4Gk?si=FkdQHVl7CaX72Vqq&amp;amp;controls=0&amp;amp;start=375&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.suedkurier.de&#x2F;region&#x2F;bodenseekreis&#x2F;markdorf&#x2F;Schueler-bekommen-Akademie-Zertifikat;art372484,8775677&quot;&gt;Newspaper article&lt;&#x2F;a&gt; about Robotik-AG.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
